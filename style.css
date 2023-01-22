@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    margin-top: 20px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 100px;
+}
+.large-text{
+    font-family: 'Yeseva One', cursive;
+    font-size: 55px;
+    font-weight: 200;
+    color: rgb(65, 62, 62);
+    word-spacing: 5px;
+}
+.orange{
+    color: orange;
+    font-size: 55px;
+    font-weight: 400;
+}
+.half-width img{
+    width: 300px;
+    height: 350px;
+    
+}
+
+.half-width p{
+    text-align: justify;
+}
+
+.half-width a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(247, 101, 133),rgb(243, 58, 113));
+    height: 60px;
+    padding: 10px 30px;
+    border-radius: 5%;
+    border-bottom: 4px solid red;
+    color: white;
+
+}
