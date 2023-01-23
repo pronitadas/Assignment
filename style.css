@@ -9,12 +9,9 @@ body{
     padding-left: 5%;
     padding-right: 5%;
     justify-content: space-between;
+    margin-bottom: 150px;
 }
-.half-width{
-    width: 50%;
-    
-    margin-bottom: 50px;
-}
+
 .large-text{
     font-family: 'Yeseva One', cursive;
     font-size: 55px;
@@ -27,9 +24,12 @@ body{
     font-size: 55px;
     font-weight: 400;
 }
-.half-width img{
+.first_section img{
     width: 300px;
     height: 350px;
+}
+.half-width{
+    width: 50%;
 }
 
 .half-width p{
@@ -49,10 +49,11 @@ body{
     color: orange;
 }
 
-.second_section h2{
+.text_modification{
     text-align: center;
     font-size: 40px;
 }
+
 .second_section img{
     width: 100px;
     height: 100px;
@@ -64,7 +65,6 @@ body{
     padding-right: 5%;
     box-shadow: 3px 3px 10px gray;
     border-radius: 5%;
-
 }
 .bg-blue{
     background-color: rgb(218, 245, 245);
@@ -79,3 +79,14 @@ body{
 .three-width p{
     text-align: left;
 }
+
+.img_orientation img{
+    width: 430px;
+    height: 400px;
+}
+.img_orientated{
+    width: 130px;
+    height: 550px;
+}
+
+
