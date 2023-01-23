@@ -84,9 +84,19 @@ body{
     width: 430px;
     height: 400px;
 }
-.img_orientated{
-    width: 130px;
-    height: 550px;
+
+footer{
+    height: 200px;
+    color: white;
+    background-color: rgb(2, 0, 12);
+    text-align: center;
+    padding: 20px;
+}
+footer h1{
+    font-size: 55px;
+    font-weight: 400; 
 }
 
-
+.half-width h1{
+    font-size: 40px;
+}
